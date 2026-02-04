@@ -53,7 +53,7 @@ Aplicação Flutter para gerenciamento e contratos de veículos.
 ## 🌐 Me encontre também
 
 <p align="left">
-  <a href="www.linkedin.com/in/luis-catapreta-97b668229" target="_blank">
+  <a href="https://www.linkedin.com/in/luis-catapreta-97b668229" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
